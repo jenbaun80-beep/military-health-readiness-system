@@ -19,6 +19,9 @@ graph TD
     C -->|Exports Processed Data| E[synthetic_readiness_data.csv]
     D -->|Queries Metrics| F[app.py - Streamlit Dashboard]
 
+```
+## 🖥️ Executive Command Dashboard UI Preview
+```
 +-----------------------------------------------------------------------------------+
 | 🛡️ Military Health Information Governance & Readiness System                      |
 | Executive command oversight dashboard for tracking unit readiness & pipelines.    |
