@@ -1,0 +1,151 @@
+Member_ID,Unit,Rank,PHA_Date,Dental_Class,On_Temporary_Profile,Readiness_Status
+ID-1001,COMNAAVWARSYSCOM,E-6,2025-05-30,Class 1,No,Non-Deployable
+ID-1002,NECC-LOG-SUP,E-6,2026-03-11,Class 1,No,Fully Deployable
+ID-1003,NAVWAR-DET-1,O-4,2025-12-28,Class 1,No,Fully Deployable
+ID-1004,COMNAAVWARSYSCOM,E-4,2025-11-13,Class 1,No,Fully Deployable
+ID-1005,NSWC-CORONA,O-1,2026-01-21,Class 2,Yes,Non-Deployable
+ID-1006,NAVWAR-DET-1,O-3,2025-05-21,Class 1,No,Non-Deployable
+ID-1007,NECC-LOG-SUP,E-5,2025-07-24,Class 1,No,Non-Deployable
+ID-1008,NAVWAR-DET-1,E-7,2026-01-09,Class 3,Yes,Non-Deployable
+ID-1009,NECC-LOG-SUP,O-3,2026-01-09,Class 2,No,Fully Deployable
+ID-1010,COMNAAVWARSYSCOM,O-4,2025-07-06,Class 2,No,Non-Deployable
+ID-1011,NAVWAR-DET-1,E-6,2025-05-19,Class 2,No,Non-Deployable
+ID-1012,NIWC-PAC-HQ,E-7,2026-05-05,Class 1,No,Fully Deployable
+ID-1013,NIWC-PAC-HQ,E-7,2026-03-31,Class 1,No,Fully Deployable
+ID-1014,COMNAAVWARSYSCOM,E-5,2026-04-20,Class 1,No,Fully Deployable
+ID-1015,NECC-LOG-SUP,E-5,2026-04-16,Class 1,No,Fully Deployable
+ID-1016,NAVWAR-DET-1,O-3,2025-07-02,Class 1,No,Non-Deployable
+ID-1017,NECC-LOG-SUP,E-7,2026-06-27,Class 3,No,Non-Deployable
+ID-1018,COMNAAVWARSYSCOM,O-3,2025-07-13,Class 1,Yes,Non-Deployable
+ID-1019,NAVWAR-DET-1,E-7,2025-06-09,Class 1,Yes,Non-Deployable
+ID-1020,NAVWAR-DET-1,O-3,2025-11-22,Class 1,No,Fully Deployable
+ID-1021,NIWC-PAC-HQ,O-1,2025-08-04,Class 1,No,Non-Deployable
+ID-1022,COMNAAVWARSYSCOM,E-5,2025-11-25,Class 4,No,Non-Deployable
+ID-1023,NECC-LOG-SUP,E-7,2025-11-10,Class 4,No,Non-Deployable
+ID-1024,NECC-LOG-SUP,O-3,2026-03-15,Class 1,No,Fully Deployable
+ID-1025,NECC-LOG-SUP,E-5,2026-07-07,Class 1,No,Fully Deployable
+ID-1026,NIWC-PAC-HQ,O-2,2025-04-14,Class 2,No,Non-Deployable
+ID-1027,NECC-LOG-SUP,E-4,2025-12-02,Class 1,No,Fully Deployable
+ID-1028,NIWC-PAC-HQ,O-1,2025-10-12,Class 1,No,Fully Deployable
+ID-1029,NIWC-PAC-HQ,O-4,2026-05-03,Class 1,No,Fully Deployable
+ID-1030,NAVWAR-DET-1,O-1,2026-06-20,Class 2,Yes,Non-Deployable
+ID-1031,NIWC-PAC-HQ,O-1,2026-03-13,Class 1,No,Fully Deployable
+ID-1032,NECC-LOG-SUP,O-3,2025-12-18,Class 2,Yes,Non-Deployable
+ID-1033,COMNAAVWARSYSCOM,O-3,2025-04-26,Class 1,No,Non-Deployable
+ID-1034,NIWC-PAC-HQ,E-7,2026-06-17,Class 2,No,Fully Deployable
+ID-1035,COMNAAVWARSYSCOM,O-4,2026-06-29,Class 1,No,Fully Deployable
+ID-1036,NECC-LOG-SUP,E-6,2025-08-30,Class 2,No,Fully Deployable
+ID-1037,COMNAAVWARSYSCOM,E-4,2026-03-10,Class 1,No,Fully Deployable
+ID-1038,NECC-LOG-SUP,O-1,2025-11-09,Class 4,No,Non-Deployable
+ID-1039,COMNAAVWARSYSCOM,E-5,2026-02-25,Class 2,No,Fully Deployable
+ID-1040,COMNAAVWARSYSCOM,O-3,2026-01-15,Class 2,No,Fully Deployable
+ID-1041,NAVWAR-DET-1,O-3,2025-05-23,Class 1,No,Non-Deployable
+ID-1042,NAVWAR-DET-1,O-3,2025-07-15,Class 1,No,Non-Deployable
+ID-1043,NIWC-PAC-HQ,O-1,2025-09-23,Class 1,No,Fully Deployable
+ID-1044,NECC-LOG-SUP,O-1,2026-01-11,Class 1,Yes,Non-Deployable
+ID-1045,COMNAAVWARSYSCOM,O-2,2025-12-23,Class 3,No,Non-Deployable
+ID-1046,NECC-LOG-SUP,O-4,2026-04-24,Class 1,No,Fully Deployable
+ID-1047,COMNAAVWARSYSCOM,O-3,2025-10-12,Class 2,No,Fully Deployable
+ID-1048,NIWC-PAC-HQ,E-6,2026-06-25,Class 1,No,Fully Deployable
+ID-1049,NAVWAR-DET-1,O-2,2026-03-26,Class 4,No,Non-Deployable
+ID-1050,COMNAAVWARSYSCOM,O-4,2025-10-14,Class 3,No,Non-Deployable
+ID-1051,NIWC-PAC-HQ,O-3,2026-06-01,Class 1,Yes,Non-Deployable
+ID-1052,NECC-LOG-SUP,O-2,2025-11-25,Class 1,No,Fully Deployable
+ID-1053,NSWC-CORONA,E-4,2025-12-26,Class 2,No,Fully Deployable
+ID-1054,NIWC-PAC-HQ,E-7,2025-09-05,Class 1,No,Fully Deployable
+ID-1055,NAVWAR-DET-1,O-2,2025-10-06,Class 1,No,Fully Deployable
+ID-1056,NAVWAR-DET-1,O-1,2026-01-04,Class 2,No,Fully Deployable
+ID-1057,NECC-LOG-SUP,O-1,2026-05-06,Class 2,No,Fully Deployable
+ID-1058,NSWC-CORONA,E-6,2025-10-21,Class 2,No,Fully Deployable
+ID-1059,NAVWAR-DET-1,E-6,2026-03-10,Class 2,No,Fully Deployable
+ID-1060,NSWC-CORONA,E-4,2025-12-03,Class 4,No,Non-Deployable
+ID-1061,COMNAAVWARSYSCOM,O-2,2025-12-07,Class 4,No,Non-Deployable
+ID-1062,COMNAAVWARSYSCOM,E-7,2025-06-28,Class 2,No,Non-Deployable
+ID-1063,NSWC-CORONA,E-4,2025-11-21,Class 1,No,Fully Deployable
+ID-1064,NAVWAR-DET-1,O-3,2026-01-30,Class 2,No,Fully Deployable
+ID-1065,NIWC-PAC-HQ,E-4,2025-11-02,Class 2,No,Fully Deployable
+ID-1066,NECC-LOG-SUP,E-6,2025-04-25,Class 3,No,Non-Deployable
+ID-1067,NAVWAR-DET-1,E-7,2025-07-18,Class 3,No,Non-Deployable
+ID-1068,NAVWAR-DET-1,O-2,2025-10-14,Class 1,No,Fully Deployable
+ID-1069,NECC-LOG-SUP,O-3,2025-08-12,Class 1,No,Fully Deployable
+ID-1070,COMNAAVWARSYSCOM,O-1,2025-11-29,Class 1,No,Fully Deployable
+ID-1071,NSWC-CORONA,E-6,2026-01-05,Class 2,No,Fully Deployable
+ID-1072,NIWC-PAC-HQ,O-4,2026-02-21,Class 1,No,Fully Deployable
+ID-1073,NSWC-CORONA,O-1,2025-05-05,Class 1,No,Non-Deployable
+ID-1074,NECC-LOG-SUP,O-2,2025-11-24,Class 1,No,Fully Deployable
+ID-1075,NSWC-CORONA,E-4,2025-06-01,Class 4,Yes,Non-Deployable
+ID-1076,NIWC-PAC-HQ,E-7,2026-07-10,Class 3,No,Non-Deployable
+ID-1077,NAVWAR-DET-1,E-4,2025-08-04,Class 2,No,Non-Deployable
+ID-1078,COMNAAVWARSYSCOM,E-4,2025-04-30,Class 3,No,Non-Deployable
+ID-1079,NSWC-CORONA,O-3,2025-06-05,Class 4,No,Non-Deployable
+ID-1080,COMNAAVWARSYSCOM,O-2,2026-06-04,Class 2,No,Fully Deployable
+ID-1081,NSWC-CORONA,E-5,2026-01-25,Class 3,No,Non-Deployable
+ID-1082,NAVWAR-DET-1,O-2,2026-02-02,Class 1,No,Fully Deployable
+ID-1083,COMNAAVWARSYSCOM,O-4,2025-10-27,Class 3,No,Non-Deployable
+ID-1084,COMNAAVWARSYSCOM,O-3,2025-12-03,Class 2,No,Fully Deployable
+ID-1085,COMNAAVWARSYSCOM,E-5,2025-03-31,Class 3,Yes,Non-Deployable
+ID-1086,NAVWAR-DET-1,E-7,2026-03-07,Class 1,No,Fully Deployable
+ID-1087,NECC-LOG-SUP,O-2,2025-08-30,Class 4,No,Non-Deployable
+ID-1088,NECC-LOG-SUP,E-4,2025-10-10,Class 1,No,Fully Deployable
+ID-1089,NSWC-CORONA,O-4,2025-10-08,Class 2,No,Fully Deployable
+ID-1090,NIWC-PAC-HQ,E-4,2025-07-22,Class 1,No,Non-Deployable
+ID-1091,NSWC-CORONA,E-5,2026-02-06,Class 4,No,Non-Deployable
+ID-1092,NSWC-CORONA,O-2,2025-11-08,Class 2,No,Fully Deployable
+ID-1093,NSWC-CORONA,O-3,2025-11-09,Class 2,No,Fully Deployable
+ID-1094,NECC-LOG-SUP,O-4,2025-10-30,Class 2,No,Fully Deployable
+ID-1095,NIWC-PAC-HQ,O-2,2026-03-31,Class 1,No,Fully Deployable
+ID-1096,NECC-LOG-SUP,O-1,2026-01-11,Class 3,No,Non-Deployable
+ID-1097,NSWC-CORONA,O-2,2026-01-29,Class 3,Yes,Non-Deployable
+ID-1098,NIWC-PAC-HQ,E-5,2025-11-25,Class 1,No,Fully Deployable
+ID-1099,COMNAAVWARSYSCOM,E-6,2026-02-19,Class 1,No,Fully Deployable
+ID-1100,COMNAAVWARSYSCOM,O-2,2025-09-21,Class 1,No,Fully Deployable
+ID-1101,NSWC-CORONA,O-4,2025-07-12,Class 4,No,Non-Deployable
+ID-1102,COMNAAVWARSYSCOM,O-3,2025-10-03,Class 2,No,Fully Deployable
+ID-1103,COMNAAVWARSYSCOM,E-5,2026-02-24,Class 1,No,Fully Deployable
+ID-1104,NIWC-PAC-HQ,O-2,2025-11-07,Class 4,Yes,Non-Deployable
+ID-1105,NSWC-CORONA,E-7,2025-07-14,Class 4,No,Non-Deployable
+ID-1106,NAVWAR-DET-1,O-2,2026-03-15,Class 1,No,Fully Deployable
+ID-1107,NAVWAR-DET-1,E-6,2026-05-21,Class 2,No,Fully Deployable
+ID-1108,NAVWAR-DET-1,O-3,2026-05-02,Class 4,No,Non-Deployable
+ID-1109,NAVWAR-DET-1,E-7,2026-01-09,Class 4,No,Non-Deployable
+ID-1110,NSWC-CORONA,O-3,2025-05-02,Class 1,No,Non-Deployable
+ID-1111,NSWC-CORONA,O-4,2026-05-23,Class 3,No,Non-Deployable
+ID-1112,COMNAAVWARSYSCOM,O-3,2025-09-09,Class 3,No,Non-Deployable
+ID-1113,NIWC-PAC-HQ,O-1,2025-07-24,Class 2,No,Non-Deployable
+ID-1114,NECC-LOG-SUP,O-4,2025-08-28,Class 2,No,Fully Deployable
+ID-1115,COMNAAVWARSYSCOM,E-7,2025-05-29,Class 4,No,Non-Deployable
+ID-1116,NECC-LOG-SUP,O-4,2026-01-22,Class 2,No,Fully Deployable
+ID-1117,NIWC-PAC-HQ,E-4,2026-04-27,Class 2,No,Fully Deployable
+ID-1118,COMNAAVWARSYSCOM,O-4,2026-04-17,Class 1,No,Fully Deployable
+ID-1119,NIWC-PAC-HQ,O-3,2026-07-06,Class 4,No,Non-Deployable
+ID-1120,COMNAAVWARSYSCOM,O-3,2025-07-02,Class 2,No,Non-Deployable
+ID-1121,COMNAAVWARSYSCOM,E-6,2026-07-02,Class 1,No,Fully Deployable
+ID-1122,NSWC-CORONA,O-1,2026-02-07,Class 1,Yes,Non-Deployable
+ID-1123,NIWC-PAC-HQ,O-3,2025-10-10,Class 4,No,Non-Deployable
+ID-1124,NSWC-CORONA,E-5,2026-01-13,Class 2,No,Fully Deployable
+ID-1125,COMNAAVWARSYSCOM,E-7,2025-12-24,Class 2,Yes,Non-Deployable
+ID-1126,NECC-LOG-SUP,O-2,2026-02-17,Class 3,No,Non-Deployable
+ID-1127,NAVWAR-DET-1,E-4,2025-12-31,Class 2,No,Fully Deployable
+ID-1128,NECC-LOG-SUP,O-4,2025-08-19,Class 1,No,Fully Deployable
+ID-1129,NSWC-CORONA,O-2,2025-06-04,Class 4,Yes,Non-Deployable
+ID-1130,NAVWAR-DET-1,E-4,2025-05-11,Class 2,No,Non-Deployable
+ID-1131,NIWC-PAC-HQ,O-4,2026-06-23,Class 2,No,Fully Deployable
+ID-1132,NSWC-CORONA,O-3,2025-09-11,Class 1,No,Fully Deployable
+ID-1133,NAVWAR-DET-1,E-6,2026-03-17,Class 4,No,Non-Deployable
+ID-1134,COMNAAVWARSYSCOM,E-6,2025-12-05,Class 1,No,Fully Deployable
+ID-1135,NECC-LOG-SUP,O-3,2025-06-24,Class 3,No,Non-Deployable
+ID-1136,COMNAAVWARSYSCOM,E-5,2026-06-03,Class 1,No,Fully Deployable
+ID-1137,COMNAAVWARSYSCOM,O-4,2025-07-09,Class 2,No,Non-Deployable
+ID-1138,NSWC-CORONA,E-6,2025-04-20,Class 1,No,Non-Deployable
+ID-1139,NIWC-PAC-HQ,O-3,2025-06-21,Class 1,No,Non-Deployable
+ID-1140,NECC-LOG-SUP,O-1,2025-08-14,Class 1,Yes,Non-Deployable
+ID-1141,COMNAAVWARSYSCOM,E-5,2025-04-11,Class 2,No,Non-Deployable
+ID-1142,NECC-LOG-SUP,E-7,2025-06-26,Class 4,No,Non-Deployable
+ID-1143,NSWC-CORONA,E-5,2025-10-20,Class 3,No,Non-Deployable
+ID-1144,NECC-LOG-SUP,O-1,2026-05-14,Class 4,No,Non-Deployable
+ID-1145,NAVWAR-DET-1,E-6,2026-06-12,Class 3,No,Non-Deployable
+ID-1146,NSWC-CORONA,E-5,2025-12-26,Class 4,No,Non-Deployable
+ID-1147,COMNAAVWARSYSCOM,O-3,2026-04-04,Class 1,No,Fully Deployable
+ID-1148,NSWC-CORONA,E-6,2026-03-30,Class 4,No,Non-Deployable
+ID-1149,NAVWAR-DET-1,E-5,2026-06-07,Class 2,No,Fully Deployable
+ID-1150,NAVWAR-DET-1,E-6,2025-05-25,Class 1,No,Non-Deployable
