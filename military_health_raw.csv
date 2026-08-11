@@ -1,0 +1,501 @@
+service_id,unit,readiness_status,immunization_compliant,dental_class,last_phra_date
+USN-25795,3rd Fleet,Fully Mission Capable,1,Class 1,2025-07-29
+USN-10860,3rd Fleet,Deployment Ready,0,Class 2,2025-07-07
+USN-86820,3rd Fleet,Fully Mission Capable,1,Class 1,2025-08-23
+USN-64886,3rd Fleet,Deployment Ready,1,Class 2,2025-02-25
+USN-16265,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-01-19
+USN-92386,1st Marine Division,Fully Mission Capable,0,Class 3,2025-12-05
+USN-47194,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-04-17
+USN-97498,3rd Fleet,Deployment Ready,1,Class 1,2025-10-18
+USN-54131,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-10-27
+USN-70263,3rd Fleet,Fully Mission Capable,1,Class 3,2025-01-25
+USN-26023,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-06-22
+USN-51090,SEAL Team 1,Deployment Ready,1,Class 1,2025-07-24
+USN-77221,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-01-20
+USN-74820,Camp Pendleton Base Operations,Deployment Ready,1,Class 3,2025-01-06
+USN-10769,1st Marine Division,Deployment Ready,1,Class 1,2025-04-20
+USN-69735,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-10-22
+USN-72955,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-10-07
+USN-74925,1st Marine Division,Medical Hold,0,Class 1,2025-04-15
+USN-77969,Camp Pendleton Base Operations,Requires Re-evaluation,1,Class 1,2025-06-02
+USN-15311,3rd Fleet,Fully Mission Capable,1,Class 1,2025-08-02
+USN-93104,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-06-06
+USN-63707,1st Marine Division,Fully Mission Capable,1,Class 2,2025-11-02
+USN-95305,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-04-09
+USN-38693,1st Marine Division,Deployment Ready,1,Class 2,2025-04-15
+USN-81932,SEAL Team 1,Medical Hold,1,Class 1,2025-05-29
+USN-35658,Camp Pendleton Base Operations,Fully Mission Capable,0,Class 3,2025-03-25
+USN-94478,3rd Fleet,Fully Mission Capable,1,Class 1,2025-08-19
+USN-28431,1st Marine Division,Fully Mission Capable,1,Class 1,2025-01-05
+USN-12747,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-10-01
+USN-69150,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-09-15
+USN-75725,1st Marine Division,Fully Mission Capable,1,Class 1,2025-05-06
+USN-94654,Naval Medical Center San Diego,Medical Hold,0,Class 2,2025-01-12
+USN-45773,1st Marine Division,Deployment Ready,1,Class 1,2025-08-13
+USN-77435,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-03-17
+USN-66886,1st Marine Division,Deployment Ready,1,Class 1,2025-05-10
+USN-76803,1st Marine Division,Deployment Ready,1,Class 1,2025-01-27
+USN-41551,1st Marine Division,Fully Mission Capable,1,Class 1,2025-02-24
+USN-21394,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 3,2025-07-09
+USN-79092,1st Marine Division,Fully Mission Capable,0,Class 3,2025-08-14
+USN-13890,Naval Medical Center San Diego,Fully Mission Capable,0,Class 3,2025-06-27
+USN-51606,SEAL Team 1,Medical Hold,1,Class 2,2025-11-14
+USN-90038,SEAL Team 1,Medical Hold,1,Class 1,2025-03-06
+USN-97313,1st Marine Division,Fully Mission Capable,1,Class 1,2025-06-26
+USN-20627,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-08-19
+USN-18792,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-11-20
+USN-83969,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-01-14
+USN-53001,1st Marine Division,Medical Hold,1,Class 1,2025-10-04
+USN-86552,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-03-13
+USN-33897,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-01-26
+USN-78148,1st Marine Division,Fully Mission Capable,1,Class 2,2025-05-02
+USN-33483,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-06-24
+USN-58555,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-02-18
+USN-27159,SEAL Team 1,Deployment Ready,1,Class 3,2025-09-18
+USN-90077,3rd Fleet,Fully Mission Capable,1,Class 1,2025-01-04
+USN-45920,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-02-26
+USN-77121,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-05-14
+USN-79479,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-04-12
+USN-99475,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-01-23
+USN-29457,1st Marine Division,Medical Hold,1,Class 3,2025-11-26
+USN-76557,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-03-03
+USN-87189,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-11-22
+USN-88953,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-12-16
+USN-62995,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-01-23
+USN-50757,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-03-31
+USN-19692,1st Marine Division,Fully Mission Capable,1,Class 1,2025-03-01
+USN-55758,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-11-04
+USN-82409,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-07-03
+USN-81211,3rd Fleet,Deployment Ready,1,Class 1,2025-11-22
+USN-75697,3rd Fleet,Fully Mission Capable,1,Class 1,2025-11-24
+USN-47065,3rd Fleet,Fully Mission Capable,1,Class 1,2025-06-24
+USN-42606,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-04-10
+USN-21534,SEAL Team 1,Deployment Ready,1,Class 1,2025-08-08
+USN-50397,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-02-03
+USN-11016,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-08-28
+USN-99789,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-11-17
+USN-65591,3rd Fleet,Deployment Ready,1,Class 1,2025-11-18
+USN-99812,Camp Pendleton Base Operations,Requires Re-evaluation,0,Class 1,2026-01-01
+USN-33247,1st Marine Division,Fully Mission Capable,1,Class 1,2025-07-18
+USN-34300,3rd Fleet,Deployment Ready,1,Class 1,2025-09-16
+USN-84065,3rd Fleet,Medical Hold,1,Class 3,2025-12-14
+USN-92798,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-02-04
+USN-19268,1st Marine Division,Fully Mission Capable,1,Class 1,2025-10-22
+USN-96807,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-09-15
+USN-22185,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-04-09
+USN-73704,3rd Fleet,Fully Mission Capable,1,Class 1,2025-05-07
+USN-96779,1st Marine Division,Fully Mission Capable,1,Class 1,2025-03-07
+USN-49099,3rd Fleet,Deployment Ready,1,Class 2,2025-10-04
+USN-18571,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-09-21
+USN-48044,3rd Fleet,Fully Mission Capable,1,Class 1,2025-04-27
+USN-61214,3rd Fleet,Deployment Ready,1,Class 1,2025-12-25
+USN-71228,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-08-02
+USN-58984,Naval Medical Center San Diego,Medical Hold,1,Class 3,2025-01-20
+USN-50774,Naval Medical Center San Diego,Deployment Ready,0,Class 2,2025-07-12
+USN-12568,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-01-24
+USN-72592,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-07-28
+USN-77563,1st Marine Division,Deployment Ready,1,Class 1,2025-06-01
+USN-12695,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-07-09
+USN-58190,1st Marine Division,Fully Mission Capable,1,Class 2,2025-07-11
+USN-15258,1st Marine Division,Fully Mission Capable,1,Class 1,2025-01-27
+USN-97538,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-01-29
+USN-49504,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-08-09
+USN-43159,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-02-12
+USN-23986,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-07-25
+USN-71858,SEAL Team 1,Deployment Ready,1,Class 1,2025-08-28
+USN-22666,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-10-12
+USN-48660,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-08-08
+USN-13561,SEAL Team 1,Deployment Ready,1,Class 1,2025-05-08
+USN-36854,3rd Fleet,Medical Hold,1,Class 1,2025-10-10
+USN-74505,3rd Fleet,Requires Re-evaluation,1,Class 1,2025-09-11
+USN-62251,SEAL Team 1,Medical Hold,1,Class 2,2025-05-22
+USN-32662,SEAL Team 1,Medical Hold,1,Class 2,2025-02-04
+USN-18392,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-05-04
+USN-40535,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-08-12
+USN-88603,3rd Fleet,Fully Mission Capable,1,Class 1,2025-11-22
+USN-62256,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-04-19
+USN-99135,3rd Fleet,Deployment Ready,1,Class 1,2025-03-23
+USN-45222,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-09-19
+USN-87373,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-06-14
+USN-89575,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-03-01
+USN-94651,1st Marine Division,Medical Hold,1,Class 1,2025-02-05
+USN-73335,1st Marine Division,Deployment Ready,1,Class 2,2025-04-11
+USN-20965,SEAL Team 1,Deployment Ready,1,Class 2,2025-06-06
+USN-34538,Naval Medical Center San Diego,Medical Hold,1,Class 2,2025-11-12
+USN-80592,Camp Pendleton Base Operations,Requires Re-evaluation,1,Class 1,2025-09-06
+USN-18110,1st Marine Division,Deployment Ready,1,Class 1,2025-06-15
+USN-89309,Camp Pendleton Base Operations,Medical Hold,1,Class 2,2025-11-24
+USN-37266,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-12-05
+USN-62992,1st Marine Division,Medical Hold,1,Class 1,2025-04-18
+USN-92948,1st Marine Division,Fully Mission Capable,1,Class 2,2025-10-10
+USN-16910,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-07-31
+USN-10206,3rd Fleet,Fully Mission Capable,1,Class 1,2025-09-07
+USN-97054,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-12-31
+USN-97897,Naval Medical Center San Diego,Deployment Ready,0,Class 1,2025-10-01
+USN-33419,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-07-20
+USN-60636,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-01-17
+USN-60015,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-03-12
+USN-64268,Naval Medical Center San Diego,Medical Hold,1,Class 2,2025-04-19
+USN-97939,SEAL Team 1,Deployment Ready,1,Class 2,2025-10-13
+USN-28141,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-04-09
+USN-90356,Naval Medical Center San Diego,Medical Hold,1,Class 2,2025-05-12
+USN-81910,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-02-15
+USN-66044,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-02-25
+USN-77214,SEAL Team 1,Medical Hold,1,Class 2,2025-03-07
+USN-43827,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-01-10
+USN-65820,1st Marine Division,Fully Mission Capable,1,Class 1,2025-06-03
+USN-72623,3rd Fleet,Medical Hold,1,Class 1,2025-11-01
+USN-91734,1st Marine Division,Fully Mission Capable,0,Class 1,2025-11-14
+USN-85450,1st Marine Division,Deployment Ready,1,Class 1,2025-08-28
+USN-32299,1st Marine Division,Fully Mission Capable,1,Class 1,2025-05-24
+USN-53585,Naval Medical Center San Diego,Medical Hold,1,Class 2,2025-03-29
+USN-74044,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-03-14
+USN-52557,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-03-24
+USN-59080,SEAL Team 1,Deployment Ready,1,Class 1,2025-03-31
+USN-12693,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-09-17
+USN-79163,3rd Fleet,Deployment Ready,1,Class 1,2025-08-09
+USN-35939,Camp Pendleton Base Operations,Requires Re-evaluation,1,Class 1,2025-09-25
+USN-58925,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-10-21
+USN-52941,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-09-02
+USN-31834,3rd Fleet,Fully Mission Capable,1,Class 1,2025-12-03
+USN-28047,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-06-28
+USN-36105,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-01-03
+USN-85766,3rd Fleet,Deployment Ready,1,Class 1,2025-01-13
+USN-25707,3rd Fleet,Fully Mission Capable,0,Class 2,2025-03-20
+USN-31976,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-06-21
+USN-54262,3rd Fleet,Deployment Ready,1,Class 1,2025-07-30
+USN-33776,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-07-14
+USN-40080,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-02-01
+USN-76842,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-11-22
+USN-71373,1st Marine Division,Deployment Ready,1,Class 1,2025-10-31
+USN-16776,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-12-10
+USN-65016,SEAL Team 1,Medical Hold,1,Class 1,2025-01-07
+USN-19474,1st Marine Division,Deployment Ready,0,Class 1,2025-10-19
+USN-68053,1st Marine Division,Medical Hold,1,Class 1,2025-11-15
+USN-31959,1st Marine Division,Fully Mission Capable,1,Class 1,2025-07-26
+USN-15530,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-02-23
+USN-13748,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-09-06
+USN-23545,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-09-24
+USN-76199,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-07-19
+USN-44766,Naval Medical Center San Diego,Fully Mission Capable,0,Class 2,2025-03-18
+USN-83530,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-07-30
+USN-71087,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-12-26
+USN-78840,Naval Medical Center San Diego,Fully Mission Capable,0,Class 1,2025-06-20
+USN-64384,3rd Fleet,Deployment Ready,1,Class 2,2025-11-07
+USN-61005,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-02-15
+USN-56576,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-06-23
+USN-49353,1st Marine Division,Fully Mission Capable,1,Class 1,2025-11-16
+USN-72003,3rd Fleet,Deployment Ready,1,Class 2,2025-08-07
+USN-93211,3rd Fleet,Medical Hold,1,Class 2,2025-04-02
+USN-62733,3rd Fleet,Fully Mission Capable,1,Class 2,2025-07-29
+USN-75318,SEAL Team 1,Deployment Ready,1,Class 1,2025-06-14
+USN-99474,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-08-29
+USN-33664,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-03-03
+USN-77172,1st Marine Division,Requires Re-evaluation,0,Class 1,2025-03-14
+USN-95616,1st Marine Division,Fully Mission Capable,1,Class 1,2025-10-30
+USN-36736,3rd Fleet,Fully Mission Capable,1,Class 1,2025-02-11
+USN-10854,1st Marine Division,Deployment Ready,1,Class 3,2025-07-10
+USN-48623,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-09-08
+USN-17392,Naval Medical Center San Diego,Medical Hold,1,Class 2,2025-06-12
+USN-65680,3rd Fleet,Fully Mission Capable,1,Class 3,2025-02-15
+USN-56717,1st Marine Division,Medical Hold,1,Class 1,2025-12-02
+USN-97092,SEAL Team 1,Deployment Ready,1,Class 1,2025-09-11
+USN-60859,SEAL Team 1,Deployment Ready,0,Class 3,2025-01-02
+USN-36309,1st Marine Division,Medical Hold,1,Class 1,2025-02-11
+USN-97455,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-01-23
+USN-73734,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-10-27
+USN-80467,3rd Fleet,Fully Mission Capable,1,Class 1,2025-10-19
+USN-62662,1st Marine Division,Fully Mission Capable,1,Class 1,2025-11-18
+USN-22688,SEAL Team 1,Fully Mission Capable,1,Class 3,2025-04-17
+USN-35342,1st Marine Division,Deployment Ready,0,Class 2,2025-08-01
+USN-47157,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-07-31
+USN-77863,Camp Pendleton Base Operations,Medical Hold,1,Class 2,2025-01-04
+USN-62083,1st Marine Division,Medical Hold,1,Class 1,2025-05-13
+USN-75733,Naval Medical Center San Diego,Requires Re-evaluation,1,Class 1,2025-11-12
+USN-99045,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-03-02
+USN-44698,SEAL Team 1,Deployment Ready,1,Class 1,2025-04-15
+USN-90623,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-02-21
+USN-32671,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-08-30
+USN-35184,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-05-02
+USN-52107,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-12-03
+USN-96202,3rd Fleet,Deployment Ready,1,Class 1,2025-09-02
+USN-61663,3rd Fleet,Deployment Ready,1,Class 3,2025-08-30
+USN-25708,SEAL Team 1,Fully Mission Capable,1,Class 3,2025-11-26
+USN-59811,1st Marine Division,Fully Mission Capable,1,Class 2,2025-07-16
+USN-12811,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-08-31
+USN-66250,1st Marine Division,Fully Mission Capable,1,Class 1,2025-01-10
+USN-82082,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-11-28
+USN-44754,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-10-07
+USN-21411,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-08-21
+USN-12911,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-06-20
+USN-77270,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-04-03
+USN-93763,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-06-15
+USN-18680,1st Marine Division,Deployment Ready,1,Class 1,2025-03-23
+USN-94896,3rd Fleet,Deployment Ready,1,Class 1,2025-10-17
+USN-93879,Camp Pendleton Base Operations,Deployment Ready,0,Class 1,2025-11-04
+USN-81295,3rd Fleet,Fully Mission Capable,1,Class 1,2025-08-29
+USN-98614,3rd Fleet,Requires Re-evaluation,1,Class 1,2025-09-15
+USN-21111,3rd Fleet,Deployment Ready,1,Class 2,2025-05-23
+USN-47504,SEAL Team 1,Deployment Ready,1,Class 3,2025-03-30
+USN-11802,SEAL Team 1,Deployment Ready,1,Class 1,2025-10-26
+USN-18155,3rd Fleet,Deployment Ready,1,Class 1,2025-10-25
+USN-83656,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-07-21
+USN-49384,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-03-03
+USN-57254,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-07-24
+USN-31918,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-01-02
+USN-95981,SEAL Team 1,Deployment Ready,1,Class 1,2025-01-25
+USN-70713,1st Marine Division,Fully Mission Capable,1,Class 1,2025-02-27
+USN-40306,1st Marine Division,Deployment Ready,1,Class 1,2025-01-24
+USN-26646,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-11-21
+USN-56843,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-01-13
+USN-26371,3rd Fleet,Requires Re-evaluation,1,Class 2,2025-09-15
+USN-87371,SEAL Team 1,Deployment Ready,1,Class 1,2025-11-12
+USN-12049,SEAL Team 1,Fully Mission Capable,0,Class 1,2025-04-27
+USN-41616,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-01-26
+USN-30932,3rd Fleet,Fully Mission Capable,1,Class 1,2025-12-12
+USN-39855,3rd Fleet,Deployment Ready,1,Class 1,2025-03-08
+USN-71434,3rd Fleet,Fully Mission Capable,1,Class 2,2025-08-16
+USN-82694,3rd Fleet,Fully Mission Capable,1,Class 1,2025-01-08
+USN-53016,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-02-12
+USN-17400,SEAL Team 1,Deployment Ready,1,Class 2,2025-10-02
+USN-52642,3rd Fleet,Deployment Ready,1,Class 1,2025-03-28
+USN-25151,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-08-30
+USN-61407,1st Marine Division,Fully Mission Capable,0,Class 3,2025-09-13
+USN-76690,1st Marine Division,Deployment Ready,1,Class 1,2025-01-13
+USN-14499,Camp Pendleton Base Operations,Deployment Ready,1,Class 2,2025-08-16
+USN-16295,3rd Fleet,Deployment Ready,1,Class 1,2025-04-04
+USN-69040,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-09-25
+USN-22183,1st Marine Division,Deployment Ready,1,Class 1,2025-04-25
+USN-39299,Naval Medical Center San Diego,Fully Mission Capable,0,Class 3,2025-01-29
+USN-22874,Naval Medical Center San Diego,Medical Hold,1,Class 3,2025-09-20
+USN-42711,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-06-02
+USN-15539,3rd Fleet,Fully Mission Capable,1,Class 1,2025-04-28
+USN-63351,1st Marine Division,Fully Mission Capable,1,Class 2,2025-08-03
+USN-71267,3rd Fleet,Deployment Ready,1,Class 1,2025-04-27
+USN-58354,1st Marine Division,Medical Hold,1,Class 1,2025-04-02
+USN-12557,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-07-21
+USN-48360,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-01-26
+USN-92018,Naval Medical Center San Diego,Deployment Ready,1,Class 3,2025-12-25
+USN-12200,3rd Fleet,Deployment Ready,1,Class 1,2025-03-24
+USN-78497,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-12-28
+USN-56975,3rd Fleet,Medical Hold,1,Class 1,2025-08-10
+USN-31357,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-09-23
+USN-87505,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-07-22
+USN-12869,SEAL Team 1,Requires Re-evaluation,1,Class 1,2025-08-08
+USN-71135,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-10-30
+USN-60108,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-10-03
+USN-48467,1st Marine Division,Fully Mission Capable,1,Class 1,2025-09-07
+USN-33328,SEAL Team 1,Medical Hold,1,Class 1,2025-01-13
+USN-96831,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-04-10
+USN-13987,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-02-26
+USN-68871,1st Marine Division,Fully Mission Capable,1,Class 1,2025-07-13
+USN-32399,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-11-16
+USN-56214,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-08-15
+USN-96416,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-05-01
+USN-80271,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-08-06
+USN-54064,3rd Fleet,Fully Mission Capable,1,Class 2,2025-05-01
+USN-80091,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-12-28
+USN-50818,3rd Fleet,Fully Mission Capable,1,Class 1,2025-07-02
+USN-55525,SEAL Team 1,Fully Mission Capable,1,Class 3,2025-12-13
+USN-29830,SEAL Team 1,Deployment Ready,1,Class 2,2025-11-17
+USN-27429,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-12-21
+USN-16893,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-10-24
+USN-89909,3rd Fleet,Fully Mission Capable,1,Class 2,2025-12-16
+USN-57333,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-08-08
+USN-13436,3rd Fleet,Medical Hold,1,Class 2,2025-08-01
+USN-84290,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-03-04
+USN-86213,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-09-16
+USN-15895,1st Marine Division,Fully Mission Capable,1,Class 1,2025-05-11
+USN-29738,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-02-28
+USN-40746,1st Marine Division,Fully Mission Capable,1,Class 1,2025-01-15
+USN-59377,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-10-24
+USN-58404,3rd Fleet,Fully Mission Capable,1,Class 3,2025-07-03
+USN-64045,3rd Fleet,Fully Mission Capable,1,Class 1,2025-04-27
+USN-49790,1st Marine Division,Requires Re-evaluation,1,Class 2,2025-05-19
+USN-15600,3rd Fleet,Deployment Ready,1,Class 1,2025-09-22
+USN-50764,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-10-19
+USN-84543,SEAL Team 1,Deployment Ready,1,Class 1,2025-05-31
+USN-55714,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-06-13
+USN-66835,3rd Fleet,Medical Hold,1,Class 1,2025-06-24
+USN-83744,1st Marine Division,Deployment Ready,1,Class 1,2025-04-28
+USN-66491,1st Marine Division,Medical Hold,1,Class 2,2025-05-05
+USN-28589,SEAL Team 1,Requires Re-evaluation,1,Class 1,2025-07-07
+USN-53484,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-05-28
+USN-92989,1st Marine Division,Fully Mission Capable,1,Class 1,2025-10-12
+USN-46212,3rd Fleet,Fully Mission Capable,1,Class 1,2025-10-02
+USN-53525,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-07-11
+USN-57202,1st Marine Division,Fully Mission Capable,1,Class 1,2025-05-08
+USN-42635,1st Marine Division,Medical Hold,1,Class 1,2025-04-17
+USN-73208,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-01-02
+USN-43828,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-07-23
+USN-28711,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-11-15
+USN-13420,3rd Fleet,Fully Mission Capable,1,Class 1,2025-02-07
+USN-10301,Camp Pendleton Base Operations,Requires Re-evaluation,1,Class 1,2025-02-08
+USN-55236,3rd Fleet,Medical Hold,1,Class 1,2025-09-08
+USN-76235,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-01-30
+USN-64240,3rd Fleet,Deployment Ready,1,Class 2,2025-01-30
+USN-75726,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-05-22
+USN-20492,SEAL Team 1,Deployment Ready,1,Class 1,2025-01-15
+USN-16102,SEAL Team 1,Deployment Ready,1,Class 1,2025-02-08
+USN-60336,SEAL Team 1,Deployment Ready,1,Class 1,2025-08-08
+USN-95314,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-10-31
+USN-36641,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-03-14
+USN-44584,3rd Fleet,Fully Mission Capable,1,Class 2,2025-02-13
+USN-42745,3rd Fleet,Requires Re-evaluation,1,Class 1,2025-02-11
+USN-33093,SEAL Team 1,Medical Hold,1,Class 1,2025-12-20
+USN-76105,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-06-27
+USN-61885,1st Marine Division,Deployment Ready,1,Class 1,2025-03-21
+USN-46631,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-06-08
+USN-82991,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-09-10
+USN-14014,3rd Fleet,Medical Hold,1,Class 2,2025-12-11
+USN-21093,1st Marine Division,Medical Hold,1,Class 1,2025-01-18
+USN-28070,1st Marine Division,Fully Mission Capable,1,Class 2,2025-06-02
+USN-45777,3rd Fleet,Fully Mission Capable,1,Class 3,2025-07-15
+USN-66958,Camp Pendleton Base Operations,Fully Mission Capable,0,Class 2,2025-02-13
+USN-92074,1st Marine Division,Fully Mission Capable,1,Class 1,2025-11-09
+USN-20729,1st Marine Division,Fully Mission Capable,1,Class 2,2025-03-10
+USN-55017,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-02-16
+USN-76320,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 3,2025-08-29
+USN-37751,1st Marine Division,Fully Mission Capable,0,Class 1,2025-03-31
+USN-88069,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-06-12
+USN-64748,3rd Fleet,Deployment Ready,1,Class 2,2025-06-22
+USN-15801,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-07-17
+USN-29190,1st Marine Division,Fully Mission Capable,1,Class 3,2025-08-03
+USN-59689,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-11-28
+USN-60993,3rd Fleet,Deployment Ready,1,Class 1,2025-07-02
+USN-39592,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-03-22
+USN-20647,3rd Fleet,Deployment Ready,1,Class 1,2025-11-06
+USN-18716,1st Marine Division,Requires Re-evaluation,0,Class 1,2025-05-25
+USN-98891,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-03-05
+USN-97545,SEAL Team 1,Medical Hold,1,Class 2,2025-07-23
+USN-99912,3rd Fleet,Requires Re-evaluation,1,Class 1,2025-12-14
+USN-80316,1st Marine Division,Fully Mission Capable,0,Class 1,2025-04-13
+USN-12368,Naval Medical Center San Diego,Medical Hold,1,Class 3,2025-03-26
+USN-87575,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-09-11
+USN-16655,3rd Fleet,Medical Hold,1,Class 1,2025-02-09
+USN-80031,3rd Fleet,Deployment Ready,1,Class 3,2025-12-03
+USN-86429,SEAL Team 1,Deployment Ready,1,Class 1,2025-08-20
+USN-97922,SEAL Team 1,Deployment Ready,1,Class 2,2025-10-27
+USN-65766,Naval Medical Center San Diego,Medical Hold,1,Class 3,2025-10-29
+USN-23403,Naval Medical Center San Diego,Deployment Ready,1,Class 3,2025-03-16
+USN-42097,1st Marine Division,Deployment Ready,1,Class 1,2025-12-08
+USN-88657,1st Marine Division,Medical Hold,1,Class 1,2025-11-26
+USN-20966,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2026-01-01
+USN-62921,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-11-26
+USN-59726,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-08-14
+USN-60300,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-05-15
+USN-32677,1st Marine Division,Fully Mission Capable,1,Class 1,2025-08-19
+USN-65609,SEAL Team 1,Medical Hold,1,Class 1,2025-06-28
+USN-66661,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-08-27
+USN-41024,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-06-15
+USN-80313,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-08-28
+USN-63006,3rd Fleet,Medical Hold,1,Class 3,2025-04-20
+USN-25338,Camp Pendleton Base Operations,Requires Re-evaluation,1,Class 2,2025-07-22
+USN-78027,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-11-28
+USN-90135,SEAL Team 1,Medical Hold,0,Class 1,2025-06-22
+USN-29508,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-06-25
+USN-13051,1st Marine Division,Medical Hold,1,Class 1,2025-09-20
+USN-58747,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-12-10
+USN-97142,1st Marine Division,Medical Hold,1,Class 2,2025-04-12
+USN-97235,3rd Fleet,Fully Mission Capable,1,Class 2,2025-03-18
+USN-64021,SEAL Team 1,Deployment Ready,1,Class 1,2025-04-17
+USN-76412,3rd Fleet,Deployment Ready,1,Class 1,2025-01-09
+USN-68335,SEAL Team 1,Fully Mission Capable,1,Class 2,2025-10-19
+USN-66179,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-01-12
+USN-42093,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-10-22
+USN-79678,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-04-18
+USN-90738,3rd Fleet,Deployment Ready,1,Class 1,2025-06-28
+USN-49734,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-07-13
+USN-82615,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-03-18
+USN-83523,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 3,2025-11-18
+USN-27019,1st Marine Division,Medical Hold,1,Class 1,2025-11-02
+USN-93613,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-10-11
+USN-96672,1st Marine Division,Fully Mission Capable,1,Class 1,2025-09-01
+USN-83847,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-01-09
+USN-92750,1st Marine Division,Fully Mission Capable,1,Class 1,2025-12-17
+USN-89634,3rd Fleet,Medical Hold,0,Class 1,2025-10-28
+USN-38251,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-08-10
+USN-35945,SEAL Team 1,Fully Mission Capable,0,Class 2,2025-07-24
+USN-42217,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-05-13
+USN-18308,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-08-11
+USN-15949,SEAL Team 1,Fully Mission Capable,1,Class 3,2025-01-09
+USN-61990,SEAL Team 1,Deployment Ready,1,Class 1,2025-06-28
+USN-11150,1st Marine Division,Medical Hold,1,Class 2,2025-02-14
+USN-99480,3rd Fleet,Fully Mission Capable,1,Class 1,2025-12-20
+USN-84740,3rd Fleet,Deployment Ready,1,Class 2,2025-07-02
+USN-76617,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-09-13
+USN-26896,3rd Fleet,Fully Mission Capable,0,Class 2,2025-03-18
+USN-56175,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-03-13
+USN-17805,3rd Fleet,Fully Mission Capable,1,Class 1,2025-06-01
+USN-15237,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-09-04
+USN-30056,3rd Fleet,Requires Re-evaluation,1,Class 1,2025-11-08
+USN-55543,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-12-06
+USN-66556,1st Marine Division,Fully Mission Capable,1,Class 1,2025-09-06
+USN-13343,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-05-26
+USN-23500,1st Marine Division,Deployment Ready,1,Class 1,2025-05-16
+USN-63222,1st Marine Division,Fully Mission Capable,1,Class 2,2025-11-10
+USN-39375,1st Marine Division,Fully Mission Capable,1,Class 1,2025-03-13
+USN-19662,SEAL Team 1,Medical Hold,0,Class 1,2025-02-15
+USN-26964,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-05-14
+USN-69638,1st Marine Division,Medical Hold,1,Class 1,2025-07-28
+USN-83666,Naval Medical Center San Diego,Fully Mission Capable,1,Class 3,2025-04-08
+USN-95067,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-12-12
+USN-77215,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 2,2025-11-10
+USN-79042,3rd Fleet,Fully Mission Capable,1,Class 3,2025-04-02
+USN-23284,Naval Medical Center San Diego,Medical Hold,1,Class 2,2025-02-23
+USN-82789,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-03-27
+USN-94664,1st Marine Division,Medical Hold,1,Class 2,2025-06-02
+USN-71389,3rd Fleet,Deployment Ready,1,Class 3,2025-12-02
+USN-19435,Camp Pendleton Base Operations,Medical Hold,1,Class 1,2025-01-30
+USN-64340,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-07-03
+USN-54078,SEAL Team 1,Medical Hold,1,Class 1,2025-12-10
+USN-88832,1st Marine Division,Deployment Ready,1,Class 1,2025-12-01
+USN-61293,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-10-20
+USN-88781,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-12-23
+USN-70403,SEAL Team 1,Medical Hold,1,Class 1,2025-11-09
+USN-39124,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-11-11
+USN-53919,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-08-07
+USN-45247,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-07-26
+USN-72752,SEAL Team 1,Medical Hold,1,Class 1,2025-12-19
+USN-66573,Naval Medical Center San Diego,Medical Hold,1,Class 1,2025-07-08
+USN-69101,Naval Medical Center San Diego,Requires Re-evaluation,1,Class 1,2025-11-10
+USN-36646,Naval Medical Center San Diego,Deployment Ready,1,Class 2,2025-02-01
+USN-33049,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-12-11
+USN-89605,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-12-03
+USN-78385,3rd Fleet,Fully Mission Capable,1,Class 2,2025-06-25
+USN-50158,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-04-17
+USN-75417,1st Marine Division,Deployment Ready,1,Class 1,2025-06-11
+USN-33289,Naval Medical Center San Diego,Fully Mission Capable,1,Class 2,2025-11-04
+USN-19823,3rd Fleet,Medical Hold,1,Class 2,2025-04-13
+USN-70160,1st Marine Division,Deployment Ready,1,Class 1,2025-12-21
+USN-51975,3rd Fleet,Deployment Ready,1,Class 1,2025-09-05
+USN-19540,SEAL Team 1,Fully Mission Capable,1,Class 3,2025-03-18
+USN-26364,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-01-29
+USN-14611,1st Marine Division,Fully Mission Capable,1,Class 1,2025-04-29
+USN-37663,1st Marine Division,Fully Mission Capable,1,Class 2,2025-01-13
+USN-61991,1st Marine Division,Fully Mission Capable,1,Class 1,2025-08-28
+USN-67679,1st Marine Division,Fully Mission Capable,1,Class 1,2025-10-19
+USN-40977,1st Marine Division,Fully Mission Capable,0,Class 1,2025-01-06
+USN-59115,3rd Fleet,Deployment Ready,1,Class 2,2025-06-12
+USN-98223,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-11-14
+USN-70890,SEAL Team 1,Deployment Ready,1,Class 1,2025-10-15
+USN-76387,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-05-06
+USN-28071,SEAL Team 1,Medical Hold,1,Class 1,2025-01-18
+USN-69275,SEAL Team 1,Requires Re-evaluation,1,Class 1,2025-08-01
+USN-82369,3rd Fleet,Fully Mission Capable,1,Class 2,2025-04-03
+USN-21938,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-09-28
+USN-45195,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-06-02
+USN-14000,1st Marine Division,Deployment Ready,1,Class 2,2025-03-14
+USN-80588,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-06-07
+USN-48304,SEAL Team 1,Fully Mission Capable,1,Class 3,2025-01-24
+USN-79449,Camp Pendleton Base Operations,Deployment Ready,1,Class 1,2025-10-06
+USN-92986,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-03-02
+USN-99643,1st Marine Division,Fully Mission Capable,1,Class 1,2025-04-13
+USN-30764,1st Marine Division,Deployment Ready,1,Class 3,2025-02-11
+USN-96027,Naval Medical Center San Diego,Fully Mission Capable,1,Class 1,2025-02-16
+USN-48494,Naval Medical Center San Diego,Deployment Ready,1,Class 1,2025-07-29
+USN-13373,SEAL Team 1,Fully Mission Capable,1,Class 1,2025-07-30
+USN-22161,1st Marine Division,Requires Re-evaluation,1,Class 1,2025-08-16
+USN-37350,Camp Pendleton Base Operations,Fully Mission Capable,1,Class 1,2025-09-03
+USN-35351,3rd Fleet,Fully Mission Capable,1,Class 3,2025-10-29
+USN-98668,3rd Fleet,Deployment Ready,1,Class 1,2025-09-17
