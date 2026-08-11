@@ -19,8 +19,6 @@ graph TD
     C -->|Exports Processed Data| E[synthetic_readiness_data.csv]
     D -->|Queries Metrics| F[app.py - Streamlit Dashboard]
 
-## 🖥️ Executive Command Dashboard UI Preview
-
 +-----------------------------------------------------------------------------------+
 | 🛡️ Military Health Information Governance & Readiness System                      |
 | Executive command oversight dashboard for tracking unit readiness & pipelines.    |
@@ -47,15 +45,6 @@ graph TD
 |  101  | NAVWAR-DET  | Class 1        | Current      | Yes                         |
 |  102  | NAVWAR-DET  | Class 3        | Overdue      | No                          |
 +-----------------------------------------------------------------------------------+
-|  VISUALIZATIONS:                                                                  |
-|  ┌───────────────────────────────────┬──────────────────────────────────────────┐ |
-|  │ 📊 Deployment Status Breakdown    │ 🦷 Dental Classification Impact          │ |
-|  │ [ Donut Chart: Deployable / No ]  │ [ Bar Chart: Class 1, 2, 3, 4 ]          │ |
-|  └───────────────────────────────────┴──────────────────────────────────────────┘ |
-+-----------------------------------------------------------------------------------+
-|  📋 Unit Member Readiness Records (Interactive Data Table)                        |
-|  [ID] | [Unit Code] | [Dental Class] | [PHA Status] | [Deployable]                |
-|  -------------------------------------------------------------------------------  |
 |  101  | NAVWAR-DET  | Class 1        | Current      | Yes                         |
 |  102  | NAVWAR-DET  | Class 3        | Overdue      | No                          |
 +-----------------------------------------------------------------------------------+
