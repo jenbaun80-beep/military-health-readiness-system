@@ -13,18 +13,14 @@ An end-to-end data pipeline and application engineered for executive command ove
 
 ```mermaid
 graph TD
-    A[generate_data.py] -->|Outputs Raw Data| B(military_health_raw.csv)
+    A[generate_data.py] -->|Outputs Raw Data| B[military_health_raw.csv]
     B -->|Ingests & Cleans| C[etl_pipeline.py]
-    C -->|Normalizes & Validates| D[(readiness.db)]
-    C -->|Exports Processed Data| E(synthetic_readiness_data.csv)
+    C -->|Normalizes & Validates| D[readiness.db]
+    C -->|Exports Processed Data| E[synthetic_readiness_data.csv]
     D -->|Queries Metrics| F[app.py - Streamlit Dashboard]
-    E -->|Visualizes Trends| F
 
 ## 🖥️ Executive Command Dashboard UI Preview
 
-When launched via Streamlit, the interface presents a structured layout for command oversight:
-
-```text
 +-----------------------------------------------------------------------------------+
 | 🛡️ Military Health Information Governance & Readiness System                      |
 | Executive command oversight dashboard for tracking unit readiness & pipelines.    |
