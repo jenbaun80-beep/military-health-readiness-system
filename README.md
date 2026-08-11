@@ -9,15 +9,16 @@ An end-to-end data pipeline and application engineered for executive command ove
 * **Interactive Command Dashboard (`app.py`)**: Built with Streamlit to provide real-time visualization of medical readiness metrics, deployment statuses, and unit availability.
 * **Secure Data Storage (`readiness.db`)**: Uses a structured SQLite relational backend designed to maintain data integrity and support analytical queries.
 
-## 🔄 End-to-End Workflow Architecture
-
+## 🔄 End-to-End Workflow Architectur
 ```mermaid
 graph TD
     A[generate_data.py] -->|Outputs Raw Data| B[military_health_raw.csv]
     B -->|Ingests & Cleans| C[etl_pipeline.py]
     C -->|Normalizes & Validates| D[readiness.db]
-    C -->|Exports Processed Data| E[synthetic_readiness_data.csv]
-    D -->|Queries Metrics| F[app.py - Streamlit Dashboard]
+    C -->|Quarantine Logging| E[Quarantine Audit Log]
+    D -->|Queries Roster Metrics| F[predict_readiness.py]
+    F -->|Trains Random Forest & Scores Risk| G[predictive_risk_scores Table]
+    G -->|Ingests ML Forecasts| H[app.py - Streamlit Dashboard]
 
 ```
 ## 🖥️ Executive Command Dashboard UI Preview
@@ -30,10 +31,10 @@ graph TD
 |  - Select Unit Code: [ All Units v ]                                              |
 |  - Deployment Eligibility: [ All v ]                                              |
 +-----------------------------------------------------------------------------------+
-|  KPI CARDS:                                                                       |
+|  KPI CARDS & ML FORECAST:                                                         |
 |  ┌──────────────────────┬──────────────────┬─────────────────┬─────────────────┐  |
-|  │ Total Personnel      │ Fully Deployable │ Readiness Rate  │ PHA Overdue     │  |
-|  │       1,250          │      1,020       │     81.6%       │       45        │  |
+|  │ Total Personnel      │ Fully Deployable │ Readiness Rate  │ 🔮 High Risk (ML)│ |
+|  │       1,250          │      1,020       │     81.6%       │    14 Flagged   │  |
 |  └──────────────────────┴──────────────────┴─────────────────┴─────────────────┘  |
 +-----------------------------------------------------------------------------------+
 |  VISUALIZATIONS:                                                                  |
@@ -42,12 +43,9 @@ graph TD
 |  │ [ Donut Chart: Deployable / No ]  │ [ Bar Chart: Class 1, 2, 3, 4 ]          │ |
 |  └───────────────────────────────────┴──────────────────────────────────────────┘ |
 +-----------------------------------------------------------------------------------+
-|  📋 Unit Member Readiness Records (Interactive Data Table)                        |
-|  [ID] | [Unit Code] | [Dental Class] | [PHA Status] | [Deployable]                |
+|  📋 Unit Member Readiness Records (Interactive Data Table + Risk Probability)     |
+|  [ID] | [Unit Code] | [Dental Class] | [PHA Status] | [Deployable] | [Risk Score] |
 |  -------------------------------------------------------------------------------  |
-|  101  | NAVWAR-DET  | Class 1        | Current      | Yes                         |
-|  102  | NAVWAR-DET  | Class 3        | Overdue      | No                          |
-+-----------------------------------------------------------------------------------+
-|  101  | NAVWAR-DET  | Class 1        | Current      | Yes                         |
-|  102  | NAVWAR-DET  | Class 3        | Overdue      | No                          |
+|  101  | NAVWAR-DET  | Class 1        | Current      | Yes          | 0.12 (Low)   |
+|  102  | NAVWAR-DET  | Class 3        | Overdue      | No           | 0.78 (High)  |
 +-----------------------------------------------------------------------------------+
