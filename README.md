@@ -19,3 +19,47 @@ graph TD
     C -->|Exports Processed Data| E(synthetic_readiness_data.csv)
     D -->|Queries Metrics| F[app.py - Streamlit Dashboard]
     E -->|Visualizes Trends| F
+
+## 🖥️ Executive Command Dashboard UI Preview
+
+When launched via Streamlit, the interface presents a structured layout for command oversight:
+
+```text
++-----------------------------------------------------------------------------------+
+| 🛡️ Military Health Information Governance & Readiness System                      |
+| Executive command oversight dashboard for tracking unit readiness & pipelines.    |
++-----------------------------------------------------------------------------------+
+| [Sidebar: Command Filters]                                                        |
+|  - Select Unit Code: [ All Units v ]                                              |
+|  - Deployment Eligibility: [ All v ]                                              |
++-----------------------------------------------------------------------------------+
+|  KPI CARDS:                                                                       |
+|  ┌──────────────────────┬──────────────────┬─────────────────┬─────────────────┐  |
+|  │ Total Personnel      │ Fully Deployable │ Readiness Rate  │ PHA Overdue     │  |
+|  │       1,250          │      1,020       │     81.6%       │       45        │  |
+|  └──────────────────────┴──────────────────┴─────────────────┴─────────────────┘  |
++-----------------------------------------------------------------------------------+
+|  VISUALIZATIONS:                                                                  |
+|  ┌───────────────────────────────────┬──────────────────────────────────────────┐ |
+|  │ 📊 Deployment Status Breakdown    │ 🦷 Dental Classification Impact          │ |
+|  │ [ Donut Chart: Deployable / No ]  │ [ Bar Chart: Class 1, 2, 3, 4 ]          │ |
+|  └───────────────────────────────────┴──────────────────────────────────────────┘ |
++-----------------------------------------------------------------------------------+
+|  📋 Unit Member Readiness Records (Interactive Data Table)                        |
+|  [ID] | [Unit Code] | [Dental Class] | [PHA Status] | [Deployable]                |
+|  -------------------------------------------------------------------------------  |
+|  101  | NAVWAR-DET  | Class 1        | Current      | Yes                         |
+|  102  | NAVWAR-DET  | Class 3        | Overdue      | No                          |
++-----------------------------------------------------------------------------------+
+|  VISUALIZATIONS:                                                                  |
+|  ┌───────────────────────────────────┬──────────────────────────────────────────┐ |
+|  │ 📊 Deployment Status Breakdown    │ 🦷 Dental Classification Impact          │ |
+|  │ [ Donut Chart: Deployable / No ]  │ [ Bar Chart: Class 1, 2, 3, 4 ]          │ |
+|  └───────────────────────────────────┴──────────────────────────────────────────┘ |
++-----------------------------------------------------------------------------------+
+|  📋 Unit Member Readiness Records (Interactive Data Table)                        |
+|  [ID] | [Unit Code] | [Dental Class] | [PHA Status] | [Deployable]                |
+|  -------------------------------------------------------------------------------  |
+|  101  | NAVWAR-DET  | Class 1        | Current      | Yes                         |
+|  102  | NAVWAR-DET  | Class 3        | Overdue      | No                          |
++-----------------------------------------------------------------------------------+
