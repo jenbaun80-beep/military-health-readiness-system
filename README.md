@@ -9,7 +9,6 @@ An end-to-end data pipeline and application engineered for executive command ove
 * **Interactive Command Dashboard (`app.py`)**: Built with Streamlit to provide real-time visualization of medical readiness metrics, deployment statuses, and unit availability.
 * **Secure Data Storage (`readiness.db`)**: Uses a structured SQLite relational backend designed to maintain data integrity and support analytical queries.
 
-
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](assets/dashboard-demo.png)
