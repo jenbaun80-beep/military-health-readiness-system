@@ -12,6 +12,4 @@ An end-to-end data pipeline and application engineered for executive command ove
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="assets/dashboard-demo.png" alt="Dashboard Preview" width="700">
-</p>
+![Dashboard Preview](assets/dashboard-demo.png)
