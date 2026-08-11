@@ -8,3 +8,10 @@ An end-to-end data pipeline and application engineered for executive command ove
 * **Synthetic Data Generation (`generate_data.py`)**: Programmatically generates realistic, compliant mock military readiness and medical status records for testing and analysis.
 * **Interactive Command Dashboard (`app.py`)**: Built with Streamlit to provide real-time visualization of medical readiness metrics, deployment statuses, and unit availability.
 * **Secure Data Storage (`readiness.db`)**: Uses a structured SQLite relational backend designed to maintain data integrity and support analytical queries.
+
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard-demo.png" alt="Dashboard Preview" width="700">
+</p>
